@@ -141,7 +141,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 26.966666666666665
+    m_Start: 27.5
     m_ClipIn: 2.299999999999997
     m_Asset: {fileID: 2419636290673372842}
     m_Duration: 2.000000000000007
@@ -206,11 +206,11 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 25.56666666666666
-    m_PreExtrapolationTime: 26.966666666666665
+    m_PostExtrapolationTime: 26.166666666666657
+    m_PreExtrapolationTime: 27.5
     m_DisplayName: Omer - Blue Guy 1 - Knee slap - 02
   - m_Version: 1
-    m_Start: 54.53333333333333
+    m_Start: 55.666666666666664
     m_ClipIn: 0.8833333333333329
     m_Asset: {fileID: -208606142728446957}
     m_Duration: 2
@@ -275,15 +275,15 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 11.033333333333331
+    m_PostExtrapolationTime: 9.66666666666665
     m_PreExtrapolationTime: 0
     m_DisplayName: Omer - Blue Guy 2 - Air Guitar - 02 - back of chair
   - m_Version: 1
-    m_Start: 67.56666666666666
+    m_Start: 67.33333333333331
     m_ClipIn: 2.9666666666666544
     m_Asset: {fileID: -1738625831364629260}
-    m_Duration: 4
-    m_TimeScale: 1.0749999999999995
+    m_Duration: 4.333333333333329
+    m_TimeScale: 1.0000000000000002
     m_ParentTrack: {fileID: -7371128530658845956}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
@@ -675,7 +675,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 22.00000000000001
+    m_Start: 22.5
     m_ClipIn: 3.29999999999999
     m_Asset: {fileID: -7132868907817378473}
     m_Duration: 5
@@ -740,14 +740,14 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 13.53333333333332
-    m_PreExtrapolationTime: 22.00000000000001
+    m_PostExtrapolationTime: 13.666666666666671
+    m_PreExtrapolationTime: 22.5
     m_DisplayName: Hannes - Molly 1 - Twirl on stairs - 03
   - m_Version: 1
-    m_Start: 40.53333333333333
+    m_Start: 41.16666666666667
     m_ClipIn: 4.349999999999994
     m_Asset: {fileID: -2968390810841339748}
-    m_Duration: 2
+    m_Duration: 2.499999999999993
     m_TimeScale: 1
     m_ParentTrack: {fileID: -2400974352421086517}
     m_EaseInDuration: 0
@@ -780,25 +780,7 @@ MonoBehaviour:
       m_RotationOrder: 4
     m_MixOutCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -813,11 +795,11 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Hannes - Molly 2a3 - Feet solo - 01 Generic move - 01 old skelly
   - m_Version: 1
-    m_Start: 42.53333333333333
+    m_Start: 43.666666666666664
     m_ClipIn: 3.713692200000007
     m_Asset: {fileID: 8581364706779535451}
     m_Duration: 2
-    m_TimeScale: 1.217604
+    m_TimeScale: 1.1750000000000014
     m_ParentTrack: {fileID: -2400974352421086517}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
@@ -825,25 +807,7 @@ MonoBehaviour:
     m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -878,11 +842,11 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 16
+    m_PostExtrapolationTime: 15
     m_PreExtrapolationTime: 0
     m_DisplayName: Hannes - Molly 2a3 - Feet solo - 02 Generic move - 03
   - m_Version: 1
-    m_Start: 60.53333333333333
+    m_Start: 60.666666666666664
     m_ClipIn: 2.5999999999999943
     m_Asset: {fileID: 7047227766513752462}
     m_Duration: 2.999999999999993
@@ -947,11 +911,11 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 8.000000000000007
+    m_PostExtrapolationTime: 8
     m_PreExtrapolationTime: 0
     m_DisplayName: Hannes - Molly 3 - Generic move 3 - 02
   - m_Version: 1
-    m_Start: 71.53333333333333
+    m_Start: 71.66666666666666
     m_ClipIn: 1.4833333333333343
     m_Asset: {fileID: -542040438952464036}
     m_Duration: 2
@@ -1113,9 +1077,9 @@ MonoBehaviour:
     m_DisplayName: Daniel - Greenguy - Fiddeling with buttons - 02
   - m_Version: 1
     m_Start: 18.00000000000001
-    m_ClipIn: 3.2666666666666444
+    m_ClipIn: 3.1499999999999773
     m_Asset: {fileID: 7678999080587769726}
-    m_Duration: 4
+    m_Duration: 4.499999999999989
     m_TimeScale: 1
     m_ParentTrack: {fileID: -1910976529657361406}
     m_EaseInDuration: 0
@@ -1159,14 +1123,14 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 9.533333333333324
+    m_PostExtrapolationTime: 10.000000000000007
     m_PreExtrapolationTime: 0
     m_DisplayName: Daniel - Greenguy - Clapping, Throwing 03
   - m_Version: 1
-    m_Start: 31.533333333333335
+    m_Start: 32.50000000000001
     m_ClipIn: 1.8333333333333286
     m_Asset: {fileID: -3760019802263303442}
-    m_Duration: 9
+    m_Duration: 8.666666666666668
     m_TimeScale: 1
     m_ParentTrack: {fileID: -1910976529657361406}
     m_EaseInDuration: 0
@@ -1210,11 +1174,11 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 4
+    m_PostExtrapolationTime: 4.499999999999993
     m_PreExtrapolationTime: 0
     m_DisplayName: Daniel - Greenguy - Dance Scene  02
   - m_Version: 1
-    m_Start: 44.53333333333333
+    m_Start: 45.666666666666664
     m_ClipIn: 3.4166666666666643
     m_Asset: {fileID: -7997099338611959523}
     m_Duration: 3
@@ -1283,7 +1247,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Daniel - Greenguy - Finger Pointing 03
   - m_Version: 1
-    m_Start: 56.53333333333333
+    m_Start: 57.666666666666664
     m_ClipIn: 4.450000000000003
     m_Asset: {fileID: -4012335901721100478}
     m_Duration: 2
@@ -1319,25 +1283,7 @@ MonoBehaviour:
       m_RotationOrder: 4
     m_MixOutCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -1352,10 +1298,10 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Daniel - Greenguy - Spin Dash 01
   - m_Version: 1
-    m_Start: 58.53333333333333
+    m_Start: 59.666666666666664
     m_ClipIn: 5.316666666666677
     m_Asset: {fileID: 1831836550810720443}
-    m_Duration: 2
+    m_Duration: 1
     m_TimeScale: 1
     m_ParentTrack: {fileID: -1910976529657361406}
     m_EaseInDuration: 0
@@ -1364,25 +1310,7 @@ MonoBehaviour:
     m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -1417,15 +1345,15 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 7
+    m_PostExtrapolationTime: 6.666666666666664
     m_PreExtrapolationTime: 0
     m_DisplayName: Daniel - Greenguy - Feet Solo 3 -02
   - m_Version: 1
-    m_Start: 67.53333333333333
+    m_Start: 67.33333333333333
     m_ClipIn: 2.9666666666666544
     m_Asset: {fileID: -309554005438054735}
-    m_Duration: 4
-    m_TimeScale: 1.0749999999999995
+    m_Duration: 4.333333333333329
+    m_TimeScale: 1.0000000000000002
     m_ParentTrack: {fileID: -1910976529657361406}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
@@ -1747,7 +1675,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 28.966666666666672
+    m_Start: 29.500000000000007
     m_ClipIn: 5.366348666666664
     m_Asset: {fileID: 4809989835471712300}
     m_Duration: 3
@@ -1812,14 +1740,14 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 31.566666666666652
-    m_PreExtrapolationTime: 28.966666666666672
+    m_PostExtrapolationTime: 31.16666666666665
+    m_PreExtrapolationTime: 29.500000000000007
     m_DisplayName: Stefan - redguy - Statue headbang - 01
   - m_Version: 1
-    m_Start: 63.533333333333324
+    m_Start: 63.66666666666666
     m_ClipIn: 4.566666666666677
     m_Asset: {fileID: 1534737085811759328}
-    m_Duration: 4
+    m_Duration: 3.6666666666666643
     m_TimeScale: 1
     m_ParentTrack: {fileID: 1356483969228271983}
     m_EaseInDuration: 0
@@ -1852,25 +1780,7 @@ MonoBehaviour:
       m_RotationOrder: 4
     m_MixOutCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -1885,10 +1795,10 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Stefan - Red Guy - Shuffle 1 - 02
   - m_Version: 1
-    m_Start: 73.53333333333333
+    m_Start: 73.66666666666666
     m_ClipIn: 2.0333333333333314
     m_Asset: {fileID: 5394463895619912906}
-    m_Duration: 3
+    m_Duration: 2.8333333333333286
     m_TimeScale: 1
     m_ParentTrack: {fileID: 1356483969228271983}
     m_EaseInDuration: 0
@@ -1954,7 +1864,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Stefan - Red Guy - Feet solo 4 - 01
   - m_Version: 1
-    m_Start: 76.53333333333333
+    m_Start: 76.49999999999999
     m_ClipIn: 5.700000000000003
     m_Asset: {fileID: -4606157846759636808}
     m_Duration: 3
@@ -2005,11 +1915,11 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Stefan - Red Guy - Headbang - 01
   - m_Version: 1
-    m_Start: 67.53333333333333
+    m_Start: 67.33333333333333
     m_ClipIn: 2.9666666666666544
     m_Asset: {fileID: 1042898388332307882}
-    m_Duration: 4
-    m_TimeScale: 1.0749999999999995
+    m_Duration: 4.333333333333329
+    m_TimeScale: 1.0000000000000002
     m_ParentTrack: {fileID: 1356483969228271983}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
@@ -2339,11 +2249,11 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 29.53333333333332
+    m_PostExtrapolationTime: 30.666666666666654
     m_PreExtrapolationTime: 7
     m_DisplayName: Stefan - Ellie - Statue Spin - 02
   - m_Version: 1
-    m_Start: 47.53333333333333
+    m_Start: 48.666666666666664
     m_ClipIn: 7.61666666666666
     m_Asset: {fileID: -1786050807326661087}
     m_Duration: 2
@@ -2412,7 +2322,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Stefan - Ellie - Feet solo 2 - 03
   - m_Version: 1
-    m_Start: 49.53333333333333
+    m_Start: 50.666666666666664
     m_ClipIn: 8.316666666666663
     m_Asset: {fileID: 3302083575315996289}
     m_Duration: 5
@@ -2477,14 +2387,14 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 9
+    m_PostExtrapolationTime: 7.999999999999993
     m_PreExtrapolationTime: 0
     m_DisplayName: Stefan - Ellie - Generic Move 2 - 01
   - m_Version: 1
-    m_Start: 63.53333333333333
+    m_Start: 63.66666666666666
     m_ClipIn: 4.566666666666677
     m_Asset: {fileID: 3706891585780618797}
-    m_Duration: 4
+    m_Duration: 3.6666666666666714
     m_TimeScale: 1
     m_ParentTrack: {fileID: 6885124156124477436}
     m_EaseInDuration: 0
@@ -2546,11 +2456,11 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 4
+    m_PostExtrapolationTime: 4.333333333333329
     m_PreExtrapolationTime: 0
     m_DisplayName: Stefan - Red Guy - Shuffle 1 - 02
   - m_Version: 1
-    m_Start: 71.53333333333333
+    m_Start: 71.66666666666666
     m_ClipIn: 1.4833333333333343
     m_Asset: {fileID: -7220820458598400913}
     m_Duration: 2
@@ -2615,15 +2525,15 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 6
+    m_PostExtrapolationTime: 5.833333333333329
     m_PreExtrapolationTime: 0
     m_DisplayName: Omer - Molly 4 - Shuffle 2 - 01
   - m_Version: 1
-    m_Start: 79.53333333333333
+    m_Start: 79.49999999999999
     m_ClipIn: 3.4166666666666714
     m_Asset: {fileID: 1316925958653987798}
-    m_Duration: 8
-    m_TimeScale: 0.9799999999999995
+    m_Duration: 7.666666666666671
+    m_TimeScale: 1.0000000000000009
     m_ParentTrack: {fileID: 6885124156124477436}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
