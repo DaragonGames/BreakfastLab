@@ -772,8 +772,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 532850382725391059, guid: 2fdf44d8e687b4e45b3c51a21538551e,
         type: 3}
+      propertyPath: m_Intensity
+      value: 39.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 532850382725391059, guid: 2fdf44d8e687b4e45b3c51a21538551e,
+        type: 3}
       propertyPath: m_SpotAngle
       value: 33.375237
+      objectReference: {fileID: 0}
+    - target: {fileID: 532850382725391059, guid: 2fdf44d8e687b4e45b3c51a21538551e,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 532850382725391059, guid: 2fdf44d8e687b4e45b3c51a21538551e,
         type: 3}
