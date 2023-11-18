@@ -12193,6 +12193,16 @@ PrefabInstance:
       propertyPath: m_VersionIndex
       value: 2482
       objectReference: {fileID: 0}
+    - target: {fileID: 77800949332670522, guid: bfc8f6188a0bdb341a166e45a50fbe6f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.756
+      objectReference: {fileID: 0}
+    - target: {fileID: 77800949332670522, guid: bfc8f6188a0bdb341a166e45a50fbe6f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.03
+      objectReference: {fileID: 0}
     - target: {fileID: 483363100512125606, guid: bfc8f6188a0bdb341a166e45a50fbe6f,
         type: 3}
       propertyPath: m_Mesh
