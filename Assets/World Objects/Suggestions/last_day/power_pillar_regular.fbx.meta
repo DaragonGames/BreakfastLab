@@ -3,7 +3,52 @@ guid: 1241ea8aba579774aaca143128d4e93c
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_for_pillars
+    second: {fileID: 2100000, guid: dcb753fca40cf73439477d0e1b42be7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillar_for_whole_room_ETIKA-black-cap
+    second: {fileID: 2100000, guid: 4b6fb0b05cef71c49968eb359ba460b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillar_for_whole_room_ETIKA-copper
+    second: {fileID: 2100000, guid: ef5da0e961ee6664299f88b55f52d3dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillar_for_whole_room_ETIKA-darkgray-plastic
+    second: {fileID: 2100000, guid: 4aa2312d19f0cca41b32fd3196924ad9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillar_for_whole_room_ETIKA-frames-plastic
+    second: {fileID: 2100000, guid: c6ae4f60aa374934cb11785a23947f86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillar_for_whole_room_ETIKA-gray-plastic
+    second: {fileID: 2100000, guid: 7cef7988708c4394abb654d8617a8b9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillar_for_whole_room_ETIKA-white-plastic
+    second: {fileID: 2100000, guid: 9ffb0aaf1c0ba074b8aa54649f243190, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillar_for_whole_room_lambert3
+    second: {fileID: 2100000, guid: be0591959057e514fb239dab3d8f70cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standardSurface1
+    second: {fileID: 2100000, guid: 294bab0735f3af844984941689a14b86, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -35,7 +80,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 100
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -90,7 +135,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 100
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
